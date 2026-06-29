@@ -1,1 +1,3 @@
-name="Jack"
+print("A")
+print("B")
+name="Dev"
